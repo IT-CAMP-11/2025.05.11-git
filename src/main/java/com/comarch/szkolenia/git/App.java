@@ -5,5 +5,7 @@ public class App {
         System.out.println("cos dopisalismy !!");
 
         System.out.println("kolejna nowa linia !!!");
+
+        System.out.println("zmiana !!");
     }
 }
