@@ -7,5 +7,7 @@ public class App {
         System.out.println("kolejna nowa linia !!!");
 
         System.out.println("zmiana !!");
+
+        System.out.println("zmiany w branchy bugfix");
     }
 }
