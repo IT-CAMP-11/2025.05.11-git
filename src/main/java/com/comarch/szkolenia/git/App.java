@@ -9,5 +9,7 @@ public class App {
         System.out.println("zmiana !!");
 
         System.out.println("zmiana w nowym branchu !!!");
+
+        System.out.println("cos nowego w feature branchu !!");
     }
 }
